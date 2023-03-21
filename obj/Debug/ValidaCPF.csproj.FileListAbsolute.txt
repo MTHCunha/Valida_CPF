@@ -1,0 +1,8 @@
+E:\Projetos\ValidaCPF\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.exe.config
+E:\Projetos\ValidaCPF\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.exe
+E:\Projetos\ValidaCPF\ValidaCPF\ValidaCPF\bin\Debug\ValidaCPF.pdb
+E:\Projetos\ValidaCPF\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csproj.AssemblyReference.cache
+E:\Projetos\ValidaCPF\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\ValidaCPF\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.csproj.CoreCompileInputs.cache
+E:\Projetos\ValidaCPF\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.exe
+E:\Projetos\ValidaCPF\ValidaCPF\ValidaCPF\obj\Debug\ValidaCPF.pdb
